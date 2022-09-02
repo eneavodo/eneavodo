@@ -6,7 +6,7 @@
 
 -🔭 Worked for 7 years in a Pay-per-view platform in Albania(<b>DigitAlb Sh.a.</b>)[2 years as a <i>social media manager</i> and 5 years as <i>Office Coordinator</i>]
 
--🎓 I’m currently studying <b>Digital Humanities</b>(Bachelor Degree) at University of Pisa
+-🎓 I’m currently studying <b>Digital Humanities</b> (Bachelor Degree) at University of Pisa
 
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/enea-vodo-970a2716a/
