@@ -4,7 +4,7 @@
 
 -🎓 Master degree - <b>Civil Engineering</b> (Polytechnic University of Tirana)
 
--🔭 Worked for 7 years in a <i>Pay-per-view<i> platform in Albania(<b>DigitAlb Sh.a.</b>)[2 years as a <i>social media manager</i> and 5 years as <i>Office Coordinator</i>]
+-🔭 Worked for 7 years in a <i>Pay-per-view</i>platform in Albania(<b>DigitAlb Sh.a.</b>)[2 years as a <i>social media manager</i> and 5 years as <i>Office Coordinator</i>
 
 -🎓 I’m currently studying <b>Digital Humanities</b> (Bachelor Degree) at University of Pisa
 
